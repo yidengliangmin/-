@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="788px" height="501px" viewBox="0 0 788 501" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 18</title>
+    <defs>
+        <path d="M45.6,0 C79.1789128,0 106.4,27.2210872 106.4,60.8 C106.4,79.4692171 97.9855755,96.1731401 84.7423165,107.326179 L66.2452134,88.3186027 C74.5976414,82.0423831 80,72.0520858 80,60.8 C80,41.8014046 64.5985954,26.4 45.6,26.4 C34.683609,26.4 24.9548411,31.4848191 18.6529838,39.4151699 L0.155471186,20.4080005 C11.2921163,7.88733906 27.5249648,0 45.6,0 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="睿-深-智-能-科-技s备份-4" transform="translate(-593.000000, -1313.000000)">
+            <g id="编组-18" transform="translate(593.000000, 1313.000000)">
+                <g id="编组-17" transform="translate(0.000000, 307.000000)" fill="#FFFFFF">
+                    <g id="编组-10" font-family="AlibabaPuHuiTiB, Alibaba PuHuiTi" font-size="111.36" font-weight="bold" letter-spacing="20" line-spacing="121">
+                        <g id="编组-4">
+                            <text id="睿深智能">
+                                <tspan x="86.06784" y="90.93824">睿深智能</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="rthinkai.com" font-family="AlibabaPuHuiTiR, Alibaba PuHuiTi" font-size="53.36" font-weight="normal" letter-spacing="15.183333">
+                        <tspan x="148.061122" y="177">rthinkai.com</tspan>
+                    </text>
+                </g>
+                <g id="编组-8" transform="translate(242.000000, 0.000000)">
+                    <g id="编组-8备份-9" fill="#FFFFFF">
+                        <path d="M149.472,8.31384388 L237.647783,59.2221561 C246.558534,64.3667806 252.047783,73.8744388 252.047783,84.1636878 L252.047783,185.980312 C252.047783,196.269561 246.558534,205.777219 237.647783,210.921844 L149.472,261.830156 C140.561249,266.974781 129.582751,266.974781 120.672,261.830156 L32.4962167,210.921844 C23.5854656,205.777219 18.0962167,196.269561 18.0962167,185.980312 L18.0962167,84.1636878 C18.0962167,73.8744388 23.5854656,64.3667806 32.4962167,59.2221561 L120.672,8.31384388 C129.582751,3.16921938 140.561249,3.16921938 149.472,8.31384388 Z" id="多边形"></path>
+                    </g>
+                    <g id="编组-11备份" transform="translate(75.000000, 52.000000)">
+                        <g id="椭圆形备份" transform="translate(15.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="形状结合" fill="#3FCFAA" xlink:href="#path-1"></use>
+                        </g>
+                        <polygon id="路径-9" fill="#0966FF" points="0 37 0 73.4900411 86.5143831 164 122 164"></polygon>
+                        <polygon id="路径-10" fill="#0966FF" points="0 112 0 147.379729 18.1945725 165 52 165"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
